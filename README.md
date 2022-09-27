@@ -1,6 +1,6 @@
 # Venture Funding with Deep Learning
 
-### Package Requirments
+### Package Requirements
 
 `pip install x` where x is the below listed packages
 * pandas
